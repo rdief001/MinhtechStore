@@ -14,18 +14,18 @@ const Exploring = () => {
       <section className="w-full overflow-hidden h-full common-padding bg-zinc">
           <div className="screen-max-width">
               <div className="flex mb-12 w-full md:flex items-end justify-between">
-                  <h1 id="title" className="section-heading">Keep exploring iPhone.</h1>
+                  <h1 id="title" className="section-heading">Keep exploring MinhPhone.</h1>
 
                   <div className="flex flex-wrap items-end gap-5 ">
                       <p className="link">
-                          Explore all iPhone
+                          Explore all MihnPhone
                           <img src={rightImg} alt="rightImg" className="ml-2"/>
                       </p>
                   </div>
               </div>
               <div className="w-full flex overflow-hidden h-full common-padding bg-black rounded-lg justify-center gap-5">
                   <div className="flex flex-col flex-wrap items-center gap-5">
-                      <img src={iphonepro} alt="iphone15pro" className="w-[40%]" />
+                      <img src={iphonepro} alt="MinhPhone 17" className="w-[40%]" />
                       
                       <ul className="flex items-center justify-center px-4 py-4 rounded-full bg-black">
                           {models.map((item, i) => (
@@ -34,8 +34,8 @@ const Exploring = () => {
                             />
                           ))}
                       </ul>
-                      <h1 className="text-3xl font-semibold text-center">iPhone 15 Pro</h1>
-                      <h2 className="text-lg font-semibold text-center mt-5 ">From $999 or $41.62/mo. for 24 mo.</h2>
+                      <h1 className="text-3xl font-semibold text-center">MihnPhone 17 Pro</h1>
+                      <h2 className="text-lg font-semibold text-center mt-5 ">From $800 or $29.16/mo. for 24 mo.</h2>
 
                       <div className="flex flex-center w-full justify-between gap-10 mt-14 mb-12">
                           <p className="text-gray">Currently Viewing</p>
@@ -52,7 +52,7 @@ const Exploring = () => {
                     
                       <img src={iphoneprocamera} alt="proCamera" className="mt-10" />
                       <h1 className="text-3xl font-semibold text-center mt-5">Pro camera system</h1>
-                      <p className="text-white text-xs text-center">Our most advanced 48MP Main camera</p>
+                      <p className="text-white text-xs text-center">Our most advanced 64MP Main camera</p>
                       <p className="text-white text-xs text-center">3x or 5x Telephoto camera</p>
                       <p className="text-white text-xs text-center">Ultra Wide camera</p>
 
@@ -61,7 +61,7 @@ const Exploring = () => {
                   </div>
 
                   <div className="flex flex-col flex-wrap items-center gap-5">
-                      <img src={iphone} alt="iphone15pro" className="w-[40%]" />
+                      <img src={iphone} alt="MinhPhone15" className="w-[40%]" />
                       
                       <ul className="flex items-center justify-center px-4 py-4 rounded-full bg-black ">
                           {models.map((item, i) => (
@@ -70,8 +70,8 @@ const Exploring = () => {
                             />
                           ))}
                       </ul>
-                      <h1 className="text-3xl font-semibold text-center">iPhone 15</h1>
-                      <h2 className="text-lg font-semibold text-center lg:mt-2.5 mt-12">From $799 or $33.29/mo. for 24 mo.</h2>
+                      <h1 className="text-3xl font-semibold text-center">MihnPhone 17</h1>
+                      <h2 className="text-lg font-semibold text-center lg:mt-2.5 mt-12">From $600 or $25.00/mo. for 24 mo.</h2>
 
                       <div className="flex flex-center w-full justify-between gap-10 mt-12 lg:mt-10 mb-12">
                           <button className="px-3 lg:px-5 py-1.5 rounded-3xl bg-blue my-2 hover:bg-transparent border border-transparent hover:border hover:text-blue hover:border-blue}">

@@ -16,14 +16,14 @@ import {
   yellowImg,
 } from "../utils";
 
-export const navLists = ["Store", "Mac", "iPhone", "Support"];
+export const navLists = ["Support"];
 
 export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
-      "Enter A17 Pro.",
-      "Game‑changing chip.",
+      "Remember A17 Pro?",
+      "All one SALE buy right now!",
       "Groundbreaking performance.",
     ],
     video: highlightFirstVideo,
@@ -38,9 +38,9 @@ export const hightlightsSlides = [
   {
     id: 3,
     textLists: [
-      "iPhone 15 Pro Max has the",
+      "MinhPhone 18 Pro Max has the",
       "longest optical zoom in",
-      "iPhone ever. Far out.",
+      "MinhPhone ever. Far out.",
     ],
     video: highlightThirdVideo,
     videoDuration: 2,
@@ -56,25 +56,25 @@ export const hightlightsSlides = [
 export const models = [
   {
     id: 1,
-    title: "iPhone 15 Pro in Natural Titanium",
+    title: "MinhPhone 18 Pro in Natural Titanium",
     color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
     img: yellowImg,
   },
   {
     id: 2,
-    title: "iPhone 15 Pro in Blue Titanium",
+    title: "MinhPhone 18 Pro in Blue Titanium",
     color: ["#53596E", "#6395ff", "#21242e"],
     img: blueImg,
   },
   {
     id: 3,
-    title: "iPhone 15 Pro in White Titanium",
+    title: "MinhPhone 18 Pro in White Titanium",
     color: ["#C9C8C2", "#ffffff", "#C9C8C2"],
     img: whiteImg,
   },
   {
     id: 4,
-    title: "iPhone 15 Pro in Black Titanium",
+    title: "MinhPhone 18 Pro in Black Titanium",
     color: ["#454749", "#3b3b3b", "#181819"],
     img: blackImg,
   },
@@ -99,25 +99,25 @@ export const shopOptions = [
     id: 1,
     imgSrc: tradeIn,
     title: "Don't miss out on extra trade-in credit.",
-    subtext: "Get $200–$650 in credit toward iPhone 15 Pro when you trade in iPhone 11 or higher. Offer ends June 3."
+    subtext: "Get $200–$650 in credit toward MinhPhone 18 Pro when you trade in MinhPhone 12 or higher. Offer ends June 3."
   },
   {
     id: 2,
     imgSrc: cardicon,
     title: "Pay over time, interest‑free.",
-    subtext: "When you choose to check out with Apple Card Monthly Installments."
+    subtext: "When you choose to check out with MinhTech Card Monthly Installments."
   },
   {
     id: 3,
     imgSrc: carrier,
-    title: "iPhone carrier deals.\nRight here at Apple.\nFor as low as $0.",
-    subtext: "Includes trade‑in and carrier credits. AT&T: up to $1000. T‑Mobile: up to $800. Verizon: up to $830."
+    title: "MinhPhone carrier deals.\nRight here at MinhTech.\nFor as low as $0.",
+    subtext: "Includes trade‑in and carrier credits. AT&T: up to $1000. T‑Mobile: up to $800. Berizon: up to $830."
   },
   {
     id: 4,
     imgSrc: deli,
     title: "Get flexible delivery and easy pickup.",
-    subtext: "Choose two‑hour delivery from an Apple Store, free delivery, or easy pickup options."
+    subtext: "Choose two‑hour delivery from an MinhTech Store, free delivery, or easy pickup options."
   },
   {
     id: 5,
@@ -128,13 +128,13 @@ export const shopOptions = [
   {
     id: 6,
     imgSrc: multiplepeopleicon,
-    title: "Get to know your iPhone.",
-    subtext: "Learn how to get the most out of your new iPhone with a free one‑on‑one Personal Session."
+    title: "Get to know your MinhPhone.",
+    subtext: "Learn how to get the most out of your new MinhPhone with a free one‑on‑one Personal Session."
   },
   {
     id: 7,
     imgSrc: exploreShop,
     title: "Explore a shopping experience designed around you.",
-    subtext: "When you shop in the Apple Store app."
+    subtext: "When you shop in the MinhTech Store app."
   },
 ]

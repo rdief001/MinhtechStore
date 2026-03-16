@@ -31,12 +31,12 @@ const Chip = () => {
               </div>
               <div className='flex flex-col items-center'>
                   <h2 className='chip-title'>
-                      A17 Pro chip.
+                      A18 Pro chip.
                       <br />
                       A monster win for gaming.
                   </h2>
                   <p className='chip-subtitle'>
-                      It's here. The biggest redesign in the history of Apple GPUs.
+                      It's here. The biggest redesign in the history of MinhTech GPUs.
                   </p>
               </div>
 
@@ -53,12 +53,12 @@ const Chip = () => {
                           
                           </div>
                   </div>
-                  <p className='text-gray font-semibold text-center mt-3'>Honkar: Star Rail</p>
+                  <p className='text-gray font-semibold text-center mt-3'>Genshin Impact</p>
                   </div>
                   <div className='chip-text-container xl:pl-[20rem]'>
                       <div className='flex flex-1 justify-center flex-col'>
                           <p className="chip-text g_fadeIn">
-                              A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
+                              A18 Pro is an entirely new class of MinhPhone chip that delivers our {' '}
                               <span className='text-white'>
                                   best graphic performance by far</span>.
                           </p>
@@ -75,7 +75,7 @@ const Chip = () => {
                   <div className='flex-1 flex justify-center flex-col g_fadeIn'>
                       <p className='chip-text'>New</p>
                       <p className='chip-bigtext'>Pro-class GPU</p>
-                      <p className='chip-text'>with 6 cores</p>
+                      <p className='chip-text'>with 8 cores</p>
               </div>
               </div>
               </div>

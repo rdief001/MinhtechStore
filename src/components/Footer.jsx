@@ -10,7 +10,7 @@ const Footer = () => {
                       More ways to shop:
                       {' '}
                       <span className="underline text-blue">
-                        Find an Apple Store{' '}
+                        Find an MinhTech Store{' '}
                       </span>
                       or {' '}
                        <span className="underline text-blue">
@@ -19,12 +19,12 @@ const Footer = () => {
                       near you.
                   </p>
                   <p className="font-semibold text-gray text-xs">
-                      Or call 000800-020-1982
+                      Or call (676)-676-7677
                   </p>
               </div>
               <div className="bg-neutral-700 my-5 h-[1px] w-full" />
               <div className="flex md:flex-row flex-col md: items-center justify-between">
-                  <p className="font-semibold text-gray text-xs">Copyright @ 2024 Apple Inc. All rights reserved. </p>
+                  <p className="font-semibold text-gray text-xs">Copyright @ 2026 MinhTech Inc. All rights reserved. </p>
                   <div className="flex flex-wrap">
                       {footerLinks.map((link, i) => (
                           <p key={link} className="font-semibold text-gray text-xs">

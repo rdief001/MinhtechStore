@@ -31,8 +31,9 @@ const Features = () => {
                   </h1>
                   <div className='flex flex-col justify-center items-center overflow-hidden'>
                       <div className='mt-32 mb-24 pl-24'>
-                          <h2 className='text-5xl lg:text-7xl font-semibold'>iPhone.</h2>
+                          <h2 className='text-5xl lg:text-7xl font-semibold'>MinhPhone.</h2>
                           <h2 className='text-5xl lg:text-7xl font-semibold'>Forged in titanium.</h2>
+
                       </div>
 
                       <div className='flex-center flex-col sm:px-10'>
@@ -56,9 +57,9 @@ const Features = () => {
 
                               <div className='feature-text-container'>
                                   <div className='flex-1 flex-center'>
-                                      <p className="feature-text g_text">iPhone 15 pro is {' '}
+                                      <p className="feature-text g_text">MinhPhone 18 pro is {' '}
                                           <span className='text-white'>
-                                              the first iPhone to feature an aerospace-grade titanium design
+                                              the first MinhPhone to feature an aerospace-grade titanium design
                                           </span>,
                                             using the same alloy the spacecraft use for missions to Mars.
                                       </p>
