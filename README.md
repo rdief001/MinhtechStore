@@ -1,35 +1,65 @@
-# Recreating Apple iPhone 15 Pro website using react
 
-This project is recreation of the Apple iPhone 15 Pro using React. It consists animations and 3D modeling achieved through the use of GSAP and Three.js libaries respectively. 
+MinhtechStore
+Training website used for cybersecurity awareness and phishing detection demonstrations.
+This project simulates a commercial storefront environment for educational purposes.
 
-Tech-Stack: React, GSAP, Three.js, Tailwind CSS.
+Requirements
 
-## Demo
+Install the following before running the project:
+• Node.js (v18 or newer recommended)
+• npm (comes with Node.js)
+• Git
 
-The latest code is deployed at [link](https://main--helpful-melomakarona-07903e.netlify.app/).
+Check versions in terminal:
+node -v
+npm -v
+git --version
 
-## Running on local
 
-To get started with the project, follow these steps:
-
+Setup Instructions
 1. Clone the repository
-```
-git clone https://github.com/pkawale/apple-website-clone.git
-```
+git clone https://github.com/rdief001/MinhtechStore.git
+cd MinhtechStore
 
-2. Navigate to the project directory
-```
-cd apple-website-clone
-```
 
-3. Install the dependencies:
-```
+2. Install dependencies
 npm install
-```
 
-4. Run
-```
+This installs all packages listed in package.json.
+Running the Website (Development)
+
+Start the development server:
 npm run dev
-```
+
+Open in browser:
+http://localhost:5173
+
+The server will automatically reload when files are edited.
+Build for Production
+
+To create optimized production files:
+npm run build
+
+Production files will appear in:
+/dist
+
+Preview Production Build
+To run the built version locally:
+
+npm run preview
+Updating the Project
+
+If new updates are pushed to the repository:
+
+git pull
+npm install
+npm run dev
+
+
+Notes
+
+This project is intended for controlled training environments.
+Do not deploy publicly without proper authorization.
+
 
 
