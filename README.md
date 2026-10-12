@@ -1,7 +1,7 @@
 
 MinhtechStore
-Training website used for cybersecurity awareness and phishing detection demonstrations.
-This project simulates a commercial storefront environment for educational purposes.
+Training website used for cybersecurity awareness and phishing detection demonstrations for children K-5th grade.
+This project simulates a commercial storefront environment for educational purposes during a competition held in Spring 2026.
 
 Requirements
 
